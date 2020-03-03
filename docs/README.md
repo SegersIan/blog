@@ -14,6 +14,7 @@ For feedback, comments, or questions, reach out on [Twitter](https://twitter.com
 * 2020
     * `404 Not Found`
 * 2019
+    * [Error handling with Async/Await in JS](/2019/error-handling-async-await.md)
     * [HOWTO: Improve Your Logical Thinking As A Developer](/2019/logical-thinking.md)
     * [A Developer Introduction To The Cloud](/2019/cloud-introduction.md)
     * [Why you should stop using env variables for NPM modules](/2019/why-no-env-variables-npm-modules.md)
