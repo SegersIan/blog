@@ -1,5 +1,8 @@
 module.exports = {
     base: '/',
-    title: 'SegersIan Blog',
-    description: 'Personal blog of Segers Ian'
+    title: 'blog.SegersIan.com',
+    description: 'Personal blog of Segers Ian',
+    markdown: {
+        lineNumbers: true
+    }
 };
