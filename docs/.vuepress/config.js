@@ -1,3 +1,5 @@
 module.exports = {
-    base: '/'
+    base: '/',
+    title: 'SegersIan Blog',
+    description: 'Personal blog of Segers Ian'
 };
