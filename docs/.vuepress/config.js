@@ -4,5 +4,11 @@ module.exports = {
     description: 'Personal blog of Segers Ian',
     markdown: {
         lineNumbers: true
-    }
+    },
+    /*plugins: [
+        '@vuepress/blog',
+        {
+
+        },
+    ],*/
 };
