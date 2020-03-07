@@ -14,6 +14,7 @@ For feedback, comments, or questions, reach out on [Twitter](https://twitter.com
 * 2020
     * `404 Not Found`
 * 2019
+    * [What I Would Teach About Databases](/2019/teach-about-databases.md)
     * [Error handling with Async/Await in JS](/2019/error-handling-async-await.md)
     * [HOWTO: Improve Your Logical Thinking As A Developer](/2019/logical-thinking.md)
     * [A Developer Introduction To The Cloud](/2019/cloud-introduction.md)
