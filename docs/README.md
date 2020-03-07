@@ -14,6 +14,7 @@ For feedback, comments, or questions, reach out on [Twitter](https://twitter.com
 * 2020
     * `404 Not Found`
 * 2019
+    * [JS: Things To Learn To Become Medior/Senior](/2019/js-how-to-become-senior.md)
     * [Serverless Edge With Cloudflare Workers](/2019/serverless-edge-with-cloudflare-workers.md)
     * [What I Would Teach About Databases](/2019/teach-about-databases.md)
     * [Error handling with Async/Await in JS](/2019/error-handling-async-await.md)
