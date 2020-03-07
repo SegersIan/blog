@@ -1,6 +1,10 @@
-# JS: Things To Learn To Become Medior/Senior
-
-(Published originally 24.08.2019 on [Medium](https://itnext.io/javascript-things-newbies-should-know-e04bab10449f))
+---
+title: Things To Learn To Become Medior/Senior
+date: 2019-08-24
+tags: 
+  - Javascript
+---
+*Published originally on [Medium](https://itnext.io/javascript-things-newbies-should-know-e04bab10449f)*
 
 **In this article, I’ll be covering some important aspects of JavaScript and its ecosystem that are useful to know for the more medior JavaScript developers should know and understand.**
 

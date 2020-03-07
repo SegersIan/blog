@@ -1,6 +1,10 @@
-# Error handling with Async/Await in JS
-
-(Published originally 17.04.2019 on [Medium](https://itnext.io/error-handling-with-async-await-in-js-26c3f20bc06a))
+---
+title: Error handling with Async/Await in JS
+date: 2019-04-17
+tags: 
+  - Javascript
+---
+*Published originally on [Medium](https://itnext.io/error-handling-with-async-await-in-js-26c3f20bc06a)*
 
 
 This will be a small article, based on some issues I picked up during code reviews and discussions with other developers. This article is rather focused on the novice JS developers.

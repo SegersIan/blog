@@ -1,6 +1,13 @@
-# A Developer Introduction To The Cloud
-
-(Published originally 30.03.2019 on [Medium](https://itnext.io/a-developer-introduction-to-the-cloud-91012abbaed4))
+---
+title: A Developer Introduction To The Cloud
+date: 2019-03-30
+tags: 
+  - Cloud
+  - AWS
+  - Azure
+  - GCP
+---
+*Published originally on [Medium](https://itnext.io/a-developer-introduction-to-the-cloud-91012abbaed4)*
 
 The cloud has become mainstream for many businesses. Big companies like Netflix are deployed on Amazon Web Services, others do hybrid solutions and then there are companies that are even moving away of big cloud vendors create their own data centers/cloud (e.g. Dropbox).
 
@@ -39,7 +46,7 @@ The **less managed** a service is, the more freedom you have but also more respo
 
 For example, the compute resource has many different products/services solely focused on compute, but differ in the scale of how managed they are.
 
-![An Image](./cloud-introduction_01.png)
+![An Image](./assets/cloud-introduction_01.png)
 
 When you are reading about a product/service, ask yourself:
 
@@ -53,7 +60,7 @@ We do have some cool naming for (some) of the different types of compute:
 ## The Location
 Products/services which you provision or deploy might or might not be bound to a (physical) location where you want to deploy and operate. Every cloud vendor has a notion of “global”, “regions” and “zones”.
 
-![An Image](./cloud-introduction_02.png)
+![An Image](./assets/cloud-introduction_02.png)
 
 * **Global**: Services on this level usually don’t deploy services, like AWS IAM which basically is the user management for all the AWS users of a certain organization. This is region/zone agnostic. Let’s say I want Peter the sysadmin to have the privileges to provision virtual machines. Depending on the cloud vendor I might limit in which regions and zones Peter can provision virtual machines, but we organize these users and their privileges on a global scope.
 * **Region**: A region is a geo-specific location, usually denoted by a country or a city. This groups a set of zones, or rather data centers within a certain vicinity of each other.

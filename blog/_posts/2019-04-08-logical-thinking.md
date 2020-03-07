@@ -1,6 +1,10 @@
-# HOWTO: Improve Your Logical Thinking As A Developer
-
-(Published originally 08.04.2019 on [Medium](https://medium.com/@segersian/howto-improve-your-logical-thinking-as-a-developer-d44636716afb))
+---
+title: Improve Your Logical Thinking As A Developer
+date: 2019-04-08
+tags: 
+  - Programming
+---
+*Published originally on [Medium](https://medium.com/@segersian/howto-improve-your-logical-thinking-as-a-developer-d44636716afb)*
 
 While helping and coaching aspiring developers during FreeCodeCamp meetups or Facebook Groups I picked up on a recurring question coming from the community;
 

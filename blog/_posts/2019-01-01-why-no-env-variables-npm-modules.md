@@ -1,6 +1,11 @@
-# Why you should stop using env variables for NPM modules
-
-(Published originally 01.01.2019 on [Medium](https://medium.com/@segersian/why-you-should-stop-using-env-variables-for-npm-modules-8bf68717d81d))
+---
+title: Why you should stop using env variables for NPM modules
+date: 2019-01-01
+tags: 
+  - Javascript
+  - NPM
+---
+*Published originally on [Medium](https://medium.com/@segersian/why-you-should-stop-using-env-variables-for-npm-modules-8bf68717d81d)*
 
 Recently I was reading through the readme of an NPM module on GitHub. As I was skimming through the configuration chapter, a big table of about 14 environment variables caught my attention. Holy *****!
 

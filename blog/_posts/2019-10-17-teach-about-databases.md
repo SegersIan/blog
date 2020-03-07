@@ -1,6 +1,10 @@
-# What I Would Teach About Databases
-
-(Published originally 17.10.2019 on [Medium](https://itnext.io/what-would-i-teach-about-databases-f02417b188d2))
+---
+title: What I Would Teach About Databases
+date: 2019-10-17
+tags: 
+  - Javascript
+---
+*Published originally on [Medium](https://itnext.io/what-would-i-teach-about-databases-f02417b188d2)*
 
 ## Motivation
 

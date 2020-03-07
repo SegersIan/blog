@@ -1,6 +1,11 @@
-# Serverless Edge With Cloudflare Workers
-
-(Published originally 18.04.2019 on [Medium](https://medium.com/@segersian/serverless-edge-with-cloudflare-workers-9d9b13534e1e))
+---
+title: Serverless Edge With Cloudflare Workers
+date: 2019-04-18
+tags: 
+  - Cloud
+  - Cloudflare
+---
+*Published originally on [Medium](https://medium.com/@segersian/serverless-edge-with-cloudflare-workers-9d9b13534e1e)*
 
 Recently I did a project where I used Cloudflare workers. In this article, I’ll give an introduction to how they work and some use cases.
 
@@ -22,7 +27,7 @@ When using Cloudflare’s DNS, it is important to know that requests go through 
 
 When using Cloudflare workers, a request will follow the following path:
 
-![Diagram](./serverless-edge-with-cloudflare-workers_01.png)
+![Diagram](./assets/serverless-edge-with-cloudflare-workers_01.png)
 
 Every request will be intercepted by the closest Cloudflare Edge location and this will trigger your serverless function to execute. In this function, you have total control if you forward the request to your origins server or execute your own logic. You can even fetch resources from different servers and then aggregate these results in one response for the client, more examples later.
 

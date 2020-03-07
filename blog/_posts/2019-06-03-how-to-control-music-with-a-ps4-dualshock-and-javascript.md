@@ -1,8 +1,16 @@
-# How To Control Music With A PS4 DualShock and JavaScript
+---
+title: How To Control Music With A PS4 DualShock and JavaScript
+date: 2019-06-03
+tags: 
+  - Javascript
+  - Web API
+  - Bluetooth API
+  - USB API
+  - Gamepad API
+---
+*Published originally on [Medium](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)*
 
-(Published originally 03.06.2019 on [Medium](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104))
-
-*Recently I wrote an article on [how (not) to connect your PS4 DualShock](./how-not-to-interact-with-your-web-app-with-a-ps4-controller.md) to your web applications. After finding out about the Gamepad API, I finally could try to control my music software, with a PS4 DualShock. I’ve used the Web MIDI API and the Web Gamepad API to make this happen. Why? Just because we can.*
+*Recently I wrote an article on [how (not) to connect your PS4 DualShock](2019-05-30-how-not-to-interact-with-your-web-app-with-a-ps4-controller.md) to your web applications. After finding out about the Gamepad API, I finally could try to control my music software, with a PS4 DualShock. I’ve used the Web MIDI API and the Web Gamepad API to make this happen. Why? Just because we can.*
 
 **If you just want to see a working example, scroll down to the bottom to check out the final video.**
 
@@ -223,7 +231,7 @@ Meaning, we might register a button click multiple times or not at all depending
 
 For this example, I’ll use the navigation buttons of our PS4 DualShock. The **up** button has id/index `12` and the **down** button has id/index 13. A full mapping can be found [here](https://webapistudio.com/#/gamepad/debugger).
 
-![PS4 Controller](./how-to-control-music-with-a-ps4-dualshock-and-javascript_01.png)
+![PS4 Controller](./assets/how-to-control-music-with-a-ps4-dualshock-and-javascript_01.png)
 
 Here is the code:
 

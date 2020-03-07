@@ -1,6 +1,10 @@
-# How to choose a startup stack
-
-(Published originally 21.09.2017 on [Medium](https://medium.com/saveboost/how-i-chose-our-startup-stack-70ddd8e164b))
+---
+title: How to choose a startup stack
+date: 2017-09-21
+tags: 
+  - Javascript
+---
+*Published originally on [Medium](https://medium.com/saveboost/how-i-chose-our-startup-stack-70ddd8e164b)*
 
 Last January I started my job as a full stack engineer at Saveboost. I was responsible for bootstrapping the product as I was the first software engineer and employee that joined the startup.
 

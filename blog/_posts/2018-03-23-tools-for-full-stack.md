@@ -1,6 +1,10 @@
-# Tools you need as a web/full-stackd developer
-
-(Published originally 23.03.2018 on [Medium](https://medium.com/@segersian/productivity-tools-381c8a63e8cb))
+---
+title: Tools you need as a web/full-stack developer
+date: 2018-03-23
+tags: 
+  - Javascript
+---
+*Published originally on [Medium](https://medium.com/@segersian/productivity-tools-381c8a63e8cb)*
 
 Your toolkit plays a significant role in your productivity. Therefore every web and full-stack developer should have a toolkit that helps you to get the job done. I want to share an overview of the tools that help me with my everyday work as a full-stack developer.
 

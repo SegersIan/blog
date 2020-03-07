@@ -1,8 +1,16 @@
-# How Not To Interact With Your Web App With A PS4 Controller.
+---
+title: How Not To Interact With Your Web App With A PS4 Controller
+date: 2019-05-30
+tags: 
+  - Javascript
+  - Web API
+  - Bluetooth API
+  - USB API
+  - Gamepad API
+---
+*(Published originally on [Medium](https://itnext.io/how-not-to-interact-with-your-web-app-with-a-ps4-controller-a3e3036a2f6e)*
 
-(Published originally 30.05.2019 on [Medium](https://itnext.io/how-not-to-interact-with-your-web-app-with-a-ps4-controller-a3e3036a2f6e))
-
-![PS4 Controller](./how-not-to-interact-with-your-web-app-with-a-ps4-controller_01.png)
+![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_01.png)
 
 *Today I’m sharing a facepalm experience that I had while I was trying to get my PS4 controller to work in my browser for a fun personal, yet useless project I’m working on. I’ll be writing another time regarding that project, but let’s now see about a typical facepalm experience that every coder will experience a few times in their career.*
 
@@ -51,7 +59,7 @@ Full of excitement on learning about the Bluetooth protocol I stumbled upon this
 
 When running this snippet in Chrome I got a popup to connect to a Bluetooth Device.
 
-![PS4 Controller](./how-not-to-interact-with-your-web-app-with-a-ps4-controller_02.png)
+![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_02.png)
 
 Well… That was disappointing. My PS4 controller was properly connected, yet nothing shows up. Why? When I then read the “small” print of the aforementioned Google tutorial:
 
@@ -99,11 +107,11 @@ Let’s break down the script for a moment:
 
 When we preview this in the browser, we can hit the “connect” button and (if your PS4 controller is connected) a popup should arise with the PS4 controller listed. For some reason, the PS4 controller is listed as “Wireless Controller” even when connected over USB, but that’s the name that the vendor gave, so no worries. Anyhow, select the device and click “connect” in the popup.
 
-![PS4 Controller](./how-not-to-interact-with-your-web-app-with-a-ps4-controller_03.png)
+![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_03.png)
 
 If everything went according to plan, we can find our device in the console output. We can verify we have our PS4 controller, inspecting the `manufacturerName` property of our logged USBDevice.
 
-![PS4 Controller](./how-not-to-interact-with-your-web-app-with-a-ps4-controller_04.png)
+![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_04.png)
 
 Perfect! I was able to discover the PS4 controller via USB! Next step is to try to receive data from it. Therefore we need to select a configuration and claim an interface.
 
@@ -141,7 +149,7 @@ Perfect! I was able to discover the PS4 controller via USB! Next step is to try 
 
 When I tested this in the browser I got the following obscure warning:
 
-![PS4 Controller](./how-not-to-interact-with-your-web-app-with-a-ps4-controller_05.png)
+![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_05.png)
 
 After a long (inefficient) google search, I found this [post](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/LZXocaeCwDw/GLfAffGLAAAJ). Which states:
 
@@ -221,7 +229,7 @@ Here is a naive implementation for the sake of simplicity:
 
 If we run this page in the browser (preferably the latest version of Chrome), we get the following output after pressing some buttons on our gamepad:
 
-![PS4 Controller](./how-not-to-interact-with-your-web-app-with-a-ps4-controller_06.png)
+![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_06.png)
 
 Let’s analyze what’s happening here:
 
