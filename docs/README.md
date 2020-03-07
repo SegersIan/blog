@@ -14,6 +14,7 @@ For feedback, comments, or questions, reach out on [Twitter](https://twitter.com
 * 2020
     * `404 Not Found`
 * 2019
+    * [How Not To Interact With Your Web App With A PS4 Controller](/2019/how-not-to-interact-with-your-web-app-with-a-ps4-controller.md)
     * [JS: Things To Learn To Become Medior/Senior](/2019/js-how-to-become-senior.md)
     * [Serverless Edge With Cloudflare Workers](/2019/serverless-edge-with-cloudflare-workers.md)
     * [What I Would Teach About Databases](/2019/teach-about-databases.md)
