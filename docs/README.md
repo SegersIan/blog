@@ -14,6 +14,7 @@ For feedback, comments, or questions, reach out on [Twitter](https://twitter.com
 * 2020
     * `404 Not Found`
 * 2019
+    * [How To Control Music With A PS4 DualShock and JavaScript](/2019/how-to-control-music-with-a-ps4-dualshock-and-javascript.md)
     * [How Not To Interact With Your Web App With A PS4 Controller](/2019/how-not-to-interact-with-your-web-app-with-a-ps4-controller.md)
     * [JS: Things To Learn To Become Medior/Senior](/2019/js-how-to-become-senior.md)
     * [Serverless Edge With Cloudflare Workers](/2019/serverless-edge-with-cloudflare-workers.md)
