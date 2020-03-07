@@ -47,7 +47,6 @@ module.exports = {
     plugins: [
         ['@vuepress/google-analytics', {'ga': 'UA-76745643-3'}],
         ['@vuepress/medium-zoom'],
-        [],
         ['@vuepress/blog', {
             directories: [
                 {
