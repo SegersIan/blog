@@ -1,5 +1,6 @@
 ---
 title: A Developer Introduction To The Cloud
+summary: A quick guide on understanding and distinguishing cloud vendors and their numerous products.
 date: 2019-03-30
 tags: 
   - Cloud

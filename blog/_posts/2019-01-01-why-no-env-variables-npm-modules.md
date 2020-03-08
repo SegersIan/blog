@@ -1,5 +1,6 @@
 ---
 title: Why you should stop using env variables for NPM modules
+summary: Clean code your modules.
 date: 2019-01-01
 tags: 
   - Javascript

@@ -1,5 +1,6 @@
 ---
 title: Improve Your Logical Thinking As A Developer
+summary: A guid to improve logical thinking.
 date: 2019-04-08
 tags: 
   - Programming

@@ -1,5 +1,6 @@
 ---
 title: Tools you need as a web/full-stack developer
+summary: Your toolkit plays a significant role in your productivity. Allow me to share you the ones I use.
 date: 2018-03-23
 tags: 
   - Javascript

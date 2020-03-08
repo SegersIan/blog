@@ -1,5 +1,6 @@
 ---
 title: Things To Learn To Become Medior/Senior
+summary: Learn more about the core concepts around the JavaScript ecosystem
 date: 2019-08-24
 tags: 
   - Javascript

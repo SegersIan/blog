@@ -1,5 +1,6 @@
 ---
 title: Error handling with Async/Await in JS
+summary: Learn error handling in JS.
 date: 2019-04-17
 tags: 
   - Javascript

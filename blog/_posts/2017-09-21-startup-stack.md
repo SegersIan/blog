@@ -1,5 +1,6 @@
 ---
 title: How to choose a startup stack
+summary: My methodology for choosing a startup stack
 date: 2017-09-21
 tags: 
   - Javascript

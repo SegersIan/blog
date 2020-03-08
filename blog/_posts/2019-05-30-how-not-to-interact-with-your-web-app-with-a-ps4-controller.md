@@ -1,5 +1,6 @@
 ---
 title: How Not To Interact With Your Web App With A PS4 Controller
+summary: Play and experimenting with Web APIs.
 date: 2019-05-30
 tags: 
   - Javascript
@@ -8,7 +9,7 @@ tags:
   - USB API
   - Gamepad API
 ---
-*(Published originally on [Medium](https://itnext.io/how-not-to-interact-with-your-web-app-with-a-ps4-controller-a3e3036a2f6e)*
+*Published originally on [Medium](https://itnext.io/how-not-to-interact-with-your-web-app-with-a-ps4-controller-a3e3036a2f6e)*
 
 ![PS4 Controller](./assets/how-not-to-interact-with-your-web-app-with-a-ps4-controller_01.png)
 

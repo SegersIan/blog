@@ -1,11 +1,10 @@
 ---
 title: How To Control Music With A PS4 DualShock and JavaScript
+summary: Control your music software and instruments with your Gamepad.
 date: 2019-06-03
 tags: 
   - Javascript
   - Web API
-  - Bluetooth API
-  - USB API
   - Gamepad API
 ---
 *Published originally on [Medium](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)*
