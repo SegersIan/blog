@@ -36,33 +36,32 @@ module.exports = {
                     type: 'mail',
                     link: 'mailto:ask@segersian.com'
                 }
-            ],
+            ]
         },
         nav: [
             {text: 'Posts', link: '/'},
             {text: 'Tags', link: '/tag/'},
-            {text: 'SegersIan.com', link: 'https://www.segersian.com', target: '_blank', rel: ''},
+            {text: 'SegersIan.com', link: 'https://www.segersian.com', target: '_blank', rel: ''}
         ],
     },
     plugins: [
         ['@vuepress/google-analytics', {'ga': 'UA-76745643-3'}],
         ['@vuepress/medium-zoom'],
-        ['@vuepress/last-updated'],
         ['@vuepress/blog', {
             directories: [
                 {
                     id: 'post',
                     dirname: '_posts',
                     path: '/',
-                },
+                }
             ],
             frontmatters: [
                 {
                     id: 'tag',
                     keys: ['tags'],
                     path: '/tag/'
-                },
+                }
             ]
-        }],
+        }]
     ]
 };

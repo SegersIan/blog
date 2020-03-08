@@ -93,6 +93,8 @@ Now we want to send a MIDI Message to an actual MIDI “output”. The “output
 * In the `mapping details` choose `deck a` for the `assignment`
 * You can see all the steps in this [video](https://www.youtube.com/watch?v=k0sHmLw4gzc&feature=youtu.be).
 
+
+
 Now that Traktor is ready to listen to our MIDI mapping, we can tie things together.
 
 ```html
