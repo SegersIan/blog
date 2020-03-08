@@ -5,6 +5,7 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
+    permalink: '/:year/:month/:day/:slug',
     theme: '@vuepress/theme-blog',
     themeConfig: {
         logo: '/logo.png',
