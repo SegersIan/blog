@@ -23,5 +23,5 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
           app_location: "/"
-          output_location: "/blog/.vuepress/dist"
+          output_location: "blog/.vuepress/dist"
           app_build_command: "npm run docs:build"
