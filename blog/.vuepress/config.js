@@ -1,7 +1,7 @@
 module.exports = {
     base: '/',
-    title: 'segersian.com',
-    description: 'About JavaScript, Architecture, and Cloud.',
+    title: 'Tech Blog',
+    description: 'About JavaScript, Architecture, System Design, and Cloud.',
     markdown: {
         lineNumbers: true
     },
@@ -45,8 +45,9 @@ module.exports = {
             {text: 'SegersIan.com', link: 'https://www.segersian.com', target: '_blank', rel: ''}
         ],
     },
+
     plugins: [
-        ['@vuepress/google-analytics', {'ga': 'UA-76745643-3'}],
+        ['@vuepress/plugin-google-analytics', {ga: 'UA-76745643-3'}],
         ['@vuepress/medium-zoom'],
         ['@vuepress/blog', {
             directories: [
