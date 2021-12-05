@@ -6,6 +6,7 @@ tags:
   - Kubernetes
   - Azure
   - AKS
+  - Neptune
 ---
 
 I liked to keep notes while I debug any issues, sometimes they can turn into a blog post. This is one of such notes while I was debugging why a certain Kubernetes (k8s) namespace was stuck terminating. I knew the "quick fix" how to resolve it (removing the finalizers of the `namespace`), but I like to get to the root of an issue. 

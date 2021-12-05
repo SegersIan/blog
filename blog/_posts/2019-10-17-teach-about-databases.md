@@ -3,7 +3,7 @@ title: What I Would Teach About Databases
 summary: Topics worth learning aside of plain SQL.
 date: 2019-10-17
 tags: 
-  - Javascript
+  - Databases
 ---
 *Published originally on [Medium](https://itnext.io/what-would-i-teach-about-databases-f02417b188d2)*
 
