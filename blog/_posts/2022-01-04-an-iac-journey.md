@@ -103,9 +103,11 @@ What were we still missing from our workflow then? Security and testing!
 
 ### Iteration 5: Best Practices and Compliance
 
+As our experience with Terraform and IaC had been growing, we started to come up with "tech visions". Documents that define our "best practices". This can be about on how to setup an Azure Function with CI/CD in our environment, or on how to create a new Terraform Module, with the right GitHub actions, branches, etc...
 
-TODO ....
+These best practices create a more uniform approach accross our DXP Cloud landscape. To track how we're doing on some of this best practices we use Azure policies to check the compliance. This provides us with some metrics on where we stand. However, a 100% compliance is not our goal as we talk "Best Practices", like ["Golden Paths"](https://engineering.atspotify.com/2020/08/17/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/), which should not be mandatory!
 
+Here we start to experience more maturity on how process and methodology.
 
 ### Iteration X: The future
 
