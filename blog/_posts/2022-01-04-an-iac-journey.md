@@ -17,7 +17,7 @@ Quickly we realized that using Azure’s portal as the primary interface for bui
 
 ## The High Level Design
 
-I've decicated a short blog post on explaining [what DXP Cloud is and how it works](./2021-12-05-dxp-cloud). However, I'll steal the diagram for a moment to discuss a few things.
+I've decicated a short blog post on explaining [what DXP Cloud is and how it works](/2021-12-05-dxp-cloud). However, I'll steal the diagram for a moment to discuss a few things.
 
 ![diagram](./assets/dxp-cloud-architecture.png)
 
