@@ -1,5 +1,5 @@
 ---
-title: An IaC Journey (draft)
+title: An IaC Journey
 summary: Sharing our Infrastructure-As-Code journey as we bootstrapped it and have been improving on when building DXP Cloud.
 date: 2022-01-07
 tags: 
