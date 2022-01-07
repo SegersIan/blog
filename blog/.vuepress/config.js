@@ -22,10 +22,6 @@ module.exports = {
                     link: 'https://github.com/SegersIan',
                 },
                 {
-                    type: 'twitter',
-                    link: 'https://twitter.com/SegersIan',
-                },
-                {
                     type: 'web',
                     link: 'https://www.SegersIan.com',
                 },
