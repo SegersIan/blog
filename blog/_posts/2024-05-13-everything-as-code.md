@@ -1,7 +1,7 @@
 ---
-title: You should pursue Everything-As-Code
+title: You should do Everything-As-Code
 summary: By adopting *-as-code methodologies/tools you can achieve advanced living documentation and enjoy an improved AI experience.
-date: 2017-09-21
+date: 2024-05-13
 tags: 
   - IaC
   - DevOps
