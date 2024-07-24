@@ -7,9 +7,9 @@ tags:
   - Clear Thinking
 ---
 
-# Preface
+Have you ever found yourself endlessly tweaking your code? In this article, we'll explore how the process of refining your code can sharpen your thinking and improve your overall effectiveness as a software engineer.
 
-Have you ever thought about your thinking? How it works, what can we learn from it, and perhaps, how we can take advantage of it as a software engineer?
+# The Coding Example
 
 Lets rewrite some simple code:
 ```js
@@ -87,9 +87,9 @@ This is not limited to writing actually, you might prefer visualizations instead
 
 Aah, there it is, *clarity of thought*, giving you the ability to communicate clearly, to express your thoughts clearly, to reason more clearly, and implicitly write code more clearly. Clarity of thought gives you a major advantage in any work you do as a software engineer: improved critical thinking, write cleaner code, write understandable emails, write effecient code reviews, express new ideas effectively, write a design document that makes sense, reason better and properly articulare your trade-off analysis. Very few are born with a talent for this, you can learn and develop this skill.
 
-Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subect, as wel, learning useful new insights along the way. If you are a software engineer, you probably will still write more text than code in any given day, therefore writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so near to natural languages (e.g. some functional languages), in that case, you could consider writing first pseudocode. My advice is non-exhaustive and informal, pick what works for you.
-
 # Writing More Clearly
+
+Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subect, as wel, learning useful new insights along the way. If you are a software engineer, you probably will still write more text than code in any given day, therefore writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so near to natural languages (e.g. some functional languages), in that case, you could consider writing first pseudocode. My advice is non-exhaustive and informal, pick what works for you.
 
 ## The Reader
 Some of the best and clearly written articles, are jargon articles that were even accessible to people from outside given jargon. Many TED talks discuss scientific topics, made accessible. Within the field of software engineering it is hard to agree on what constitutes a minimum general knowledge within the field. There are countless technologies, libraries, tools, languages and frameworks, making it impossible to all know the same things. In addition, majority of software engineers must communicate with non or semi technical stakeholders to get things done. There is no point to fight this. Mind the reader or target audience.
@@ -108,26 +108,21 @@ Reading Tip: [Rhetorical Situations](https://wac.colostate.edu/repository/teachi
 * "Is there any ambiguity for the reader?"
 
 ### Simplify
-* Prune words and sentences that repeat or don't add value, be ruthless, if it does not help the reader, its just taking space.
-  * Great writing is all about the power of the deleted word (Richard Bach).
-* Trim any clutter or pompous writing.
-* Rewrite if it doesn't work, don't be overly attached to every sentence you write.
-* Choose short words over lengthy ones.
-* TED talks are have a hard stop at 18 minutes so that speakers would prune  all the noise and clutter.
+Prune words and sentences that repeat or don't add value, be ruthless, if it does not help the reader, its just taking space. Great writing is all about the power of the deleted word (Richard Bach). Trim any clutter or pompous writing. Rewrite if it doesn't work, don't be attached to everything you write. Choose short words over lengthy ones. Did you know TED talks have a hard stop at 18 minutes so that speakers would be forced to keep it them for inflating the content? It doesn't allow for unclarity if you want to introduce a new idea in a short time frame. Consider using GenAI to improve how you formulate your ideas, take this with caution though, ChatGPT loves by default a lengthy and cluthered writing style. Make sure to prompt for "simplified", "concisce", or "clear" language.
 
-Don't be tempted by others their pompous or snobbish writing style. Especially academia suffers from this pretentious writing style. Writing in a short, clear style, takes more effort and skill than the academic or business cluttered writing. Simple writing doesn't mean a simple mind. One can argue this opposite, someone who can articulate things clearly, often thinks clearly and has little fog and clutter in their mind. A French mathematician and philosopher, Blaise Pascal said "If I had more time, I would have written a shorter letter".
+Don't be tempted nor intimdated by others their pompous or snobbish writing style. Especially academia and business suffers from this pretentious writing style. Writing in a short, clear style, takes more effort and skill than academic or business writing. Simple writing doesn't mean a simple mind. One must argue the opposite, someone who can articulate things clearly, often thinks clearly and has little fog and clutter in their mind. The French mathematician and philosopher, Blaise Pascal said "If I had more time, I would have written a shorter letter".
 
 ### Iterate
 
-* Iteration is king. This is the key differentiator from those who write once and don't look back in anything they do.
-* When you do Test Driven Development you also do the bare minimum to make the test pass. Then you iterate on the implementation.
+* Iteration is king. This is the key differentiator from those who write once and don't look back.
+* When you do Test Driven Development, you do the bare minimum to make the test pass. Then, you iterate on the implementation.
 * When doing agile software engineering, you start with a base and iteratively built your solution.
 
 Reading Tip: [The Writing Process](https://www.lynchburg.edu/academics/writing-center/wilmer-writing-center-online-writing-lab/the-writing-process/) but be weary for the paper/academic specific tips.
 
 # Final Thoughts
 
-As I am writing this article, I went through this process, collecting my multi-dimensional thoughts and ideas, attempting to express them in this one dimensonal format called text. I've gained many insights as I kept iterating over this article and my thoughts, resulting in a clearer and cohesive understanding. I can only hope you experience the fruits of my labour.
+As I am writing this article, I went through this process, collecting my multi-dimensional thoughts and ideas, attempting to express them in this one dimensonal format called text. I've gained many insights as I kept iterating over this article and my thoughts, resulting in a clearer and cohesive understanding. I can only hope you notice the fruits of my labour in this article and inspire you to think more clearly.
 
 # Resources
 
