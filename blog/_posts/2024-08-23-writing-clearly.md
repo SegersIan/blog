@@ -1,5 +1,5 @@
 ---
-title: From Code to Clarity: How Rewriting Your Code Can Enhance Your Thought Process
+title: From Code to Clarity - How Rewriting Your Code Can Enhance Your Thought Process
 summary: In the world of software engineering, refining code is more than just a technical task; it's an exercise in improving clarity of thought. This article explores the parallels between writing code and writing text, emphasizing the iterative process of rewriting to achieve clearer, more effective communication. By examining a simple coding example, we delve into the mental processes that lead to better solutions and how this can translate into more efficient and understandable code. Learn how honing your writing skills can make you a better programmer and thinker, ultimately benefiting every aspect of your work.
 date: 2024-08-23
 tags:
