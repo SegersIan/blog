@@ -1,16 +1,13 @@
 ---
-title: TODO
-summary: TODO
+title: Can We Thinking Clearly As A Developer?
+summary: We examine the thought process of writing and refactoring code. Does it share anything with regular writing? If it does, what can we learn from this? How can we think clearer and communicate more clearly in our daily work as developers, programmers, and software engineers?
 date: 2024-08-23
 tags:
   - Programming
+  - Clear Thinking
 ---
 
-# Introduction
-
-
-// TODO: See quotes of the writing KB
-
+# Preface
 
 Have you ever thought about your thinking? How it works, what can we learn from it, and perhaps, how we can take advantage of it as a software engineer?
 
@@ -74,7 +71,7 @@ You go back over the problem and its solution. You analyze it, might gain new in
 
 Notice, you went through a process of reading, understanding, reflecting, reasoning, refining and rephrasing your thoughts (e.g. the solution), then repeating those steps and reaching a higher level of understanding with each iteration. Is this process unique to writing code?
 
-When you write any text -- even with non-fiction -- a great start is to "just write freely", let your thoughts flow, unfiltered, no resistance, undisturbed like a mountain creek. You braindump all your wisdom or understanding in a written format. Along the way you might even learn something, make an intereseting observation or have the occasional AHA moment. Like most people, if you read out loud what you have just written, you'll notice some spelling and grammer mistakes, a lack of structure, maybe you're repeating the same ideas in different words. It is in dear need of refinement.
+When you write any text -- even with non-fiction -- a great start is to "just write freely" (aka prewriting or outlining), let your thoughts flow, unfiltered, no resistance, undisturbed like a mountain creek. You braindump all your wisdom or understanding in a written format. Along the way you might even learn something, make an intereseting observation or have the occasional AHA moment. Like most people, if you read out loud what you have just written, you'll notice some spelling and grammer mistakes, a lack of structure, maybe you're repeating the same ideas in different words. It is in dear need of refinement.
 
 One way you can go about it, is by asking yourself "What do I want to say?", then read your text once again and ask "Have I said what I wanted to say?" then you go about improving your text based on these reflections. Do you spot the similarities with writing code?
 
@@ -92,31 +89,45 @@ Aah, there it is, *clarity of thought*, giving you the ability to communicate cl
 
 Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subect, as wel, learning useful new insights along the way. If you are a software engineer, you probably will still write more text than code in any given day, therefore writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so near to natural languages (e.g. some functional languages), in that case, you could consider writing first pseudocode. My advice is non-exhaustive and informal, pick what works for you.
 
-# How To Write More Clearly
+# Writing More Clearly
 
-* What does it mean to be clear
-  * Accessible
-  * Understandable
-* Preperation
-  * Who is your target audience? What prior knowledge do you expect the reader to have? By the way, the best “jargon” literature out there is even accessible to people from outside that jargon.
+## The Reader
+Some of the best and clearly written articles, are jargon articles that were even accessible to people from outside given jargon. Many TED talks discuss scientific topics, made accessible. Within the field of software engineering it is hard to agree on what constitutes a minimum general knowledge within the field. There are countless technologies, libraries, tools, languages and frameworks, making it impossible to all know the same things. In addition, majority of software engineers must communicate with non or semi technical stakeholders to get things done. There is no point to fight this. Mind the reader or target audience.
 
-* Process for Clarity
-  * Ask yourself "What do I want to say?"
-  * Write it down ("Try to say it"?>)
-  * Read it.
-  * Ask yourself "Did I say what I wanted to say?"
-  * Ask yourself "Is it clear what I said?"
-  * Ask yourself "What prior knowledge do I expect the reader to have".
-  * Wriing is a process, not a product.
-  * The text must linearly and logically built up.\
-  * Repeat
-* Process for better writing
-  * Use thesauris
-  * ...
-* The best “jargon” literature is even accessible to people from outside the field.
-* Write down your ideas or solution
-* Read it
+Reading Tip: [Rhetorical Situations](https://wac.colostate.edu/repository/teaching/intro/rhetoric/)
 
+## The Writing Process
+
+"What do I want to say?" Start with that question and write freely from there. Once you got that first outline you can reread it and work through your text iteratively, on global level, but also per paragraph/sentence:
+
+### Guiding questions
+* "What do I want to say?"
+* "Did I say what I wanted to say?"
+* "Is this sentence/paragraph/text clear to someone who knows nothing about the subject?"
+* "What do I need to say next? Will it lead logically out of what I’ve just written?"
+* "Is there any ambiguity for the reader?"
+
+### Simplify
+* Prune words and sentences that repeat or don't add value, be ruthless, if it does not help the reader, its just taking space.
+  * Great writing is all about the power of the deleted word (Richard Bach).
+* Trim any clutter or pompous writing.
+* Rewrite if it doesn't work, don't be overly attached to every sentence you write.
+* Choose short words over lengthy ones.
+* TED talks are have a hard stop at 18 minutes so that speakers would prune  all the noise and clutter.
+
+Don't be tempted by others their pompous or snobbish writing style. Especially academia suffers from this pretentious writing style. Writing in a short, clear style, takes more effort and skill than the academic or business cluttered writing. Simple writing doesn't mean a simple mind. One can argue this opposite, someone who can articulate things clearly, often thinks clearly and has little fog and clutter in their mind. A French mathematician and philosopher, Blaise Pascal said "If I had more time, I would have written a shorter letter".
+
+### Iterate
+
+* Iteration is king. This is the key differentiator from those who write once and don't look back in anything they do.
+* When you do Test Driven Development you also do the bare minimum to make the test pass. Then you iterate on the implementation.
+* When doing agile software engineering, you start with a base and iteratively built your solution.
+
+Reading Tip: [The Writing Process](https://www.lynchburg.edu/academics/writing-center/wilmer-writing-center-online-writing-lab/the-writing-process/) but be weary for the paper/academic specific tips.
+
+# Final Thoughts
+
+As I am writing this article, I went through this process, collecting my multi-dimensional thoughts and ideas, attempting to express them in this one dimensonal format called text. I've gained many insights as I kept iterating over this article and my thoughts, resulting in a clearer and cohesive understanding. I can only hope you experience the fruits of my labour.
 
 # Resources
 
