@@ -38,7 +38,7 @@ for(var number = 1; number < 6; number++){
 }
 ```
 
-You stare at the solution and realize it makes you uncomfortable. "If they increase that range, I need to update the code in multiple places. On top of that, the code is nor very self-explanatory, it's not obvious what it is intended to do" you tell yourself. The hour is still far from over, enough time to tidy up:
+You stare at the solution and realize it makes you uncomfortable. "If they increase that range, I need to update the code in multiple places, nor is the code very self-explanatory, it's not obvious what it is intended to do" you tell yourself. The hour is still far from over, enough time to tidy up:
 
 ```js
 for(var number = 1; number < 6; number++){
