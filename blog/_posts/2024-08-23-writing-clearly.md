@@ -72,7 +72,7 @@ function isOdd(number){
 }
 ```
 
-After reading the solution once again, you feel fairly content with the solution, its clear, readable, easy to understand and a change in range can be easily done.
+After reading the solution once again, you feel fairly content with the solution, it's clear, readable, easy to understand and a change in range can be easily done.
 You tell yourself "another hour of honest work", close your editor and send out an invoice to the client.
 
 One might feel the urge to discuss overengineering as we reflect on this case study, that's not what this article is about. The focus of this article leads towards another thought process to examine.
@@ -103,7 +103,7 @@ There it is, *clarity of thought*, giving you the ability to communicate clearly
 
 # Writing More Clearly
 
-Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well, learning useful new insights along the way. If you are a software engineer, you probably often write more text than code in any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so near to natural languages, in that case, you could consider writing first pseudocode. My advice is a non-exhaustive and informal list, pick what works for you.
+Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well, learning useful new insights along the way. If you are a software engineer, you probably often write more text than code on any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so close to natural languages, in that case, you could consider writing  the pseudocode first. My advice is a non-exhaustive and informal list, pick what works for you.
 
 Improving your writing will directly improve your ability to write better code and vice-versa.
 
@@ -137,13 +137,13 @@ Don't be tempted nor intimidated by others with their pompous or snobbish writin
 
 * Iteration is king. This is the key differentiator from those who write once and don't look back.
 * When you do Test Driven Development, you do the bare minimum to make the test pass. Then, you iterate on the implementation.
-* When doing agile software engineering, you start with a base and iteratively built your solution.
+* When doing agile software engineering, you start with a base and iteratively build your solution.
 
-Reading Tip: [The Writing Process](https://www.lynchburg.edu/academics/writing-center/wilmer-writing-center-online-writing-lab/the-writing-process/) but be weary for the paper/academic specific tips.
+Reading Tip: [The Writing Process](https://www.lynchburg.edu/academics/writing-center/wilmer-writing-center-online-writing-lab/the-writing-process/) but be wary of the paper/academic specific tips.
 
 ### Blog, Teach, Talk, Explain
 
-"To teach is to learn twice" (Joseph Joubert), this quote exemplifies how teaching deepends one's own understanding of a subject. One of the most effective ways to deepen your understanding and learn to clearly formulate is by teaching, explaining or public speaking. I personally experienced this as I was coaching students on [FreeCodeCamp](https://www.freecodecamp.org/) meetups and doing tech talks. That's why *effective* public speakers, bloggers and content creators know their subject so well, through the process of preparing their content, they learn and improve. It's a natural self-reinforcing loop. The more content they create, the better they become.
+"To teach is to learn twice" (Joseph Joubert), this quote exemplifies how teaching deepens one's own understanding of a subject. One of the most effective ways to deepen your understanding and learn to clearly formulate is by teaching, explaining or public speaking. I personally experienced this as I was coaching students on [FreeCodeCamp](https://www.freecodecamp.org/) meetups and doing tech talks. That's why *effective* public speakers, bloggers and content creators know their subject so well, through the process of preparing their content, they learn and improve. It's a natural self-reinforcing loop. The more content they create, the better they become.
 
 # Final Thoughts
 
