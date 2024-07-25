@@ -38,7 +38,7 @@ for(var number = 1; number < 6; number++){
 }
 ```
 
-You stare at the solution and realize it makes you uncomfortable. "If they increase that range, I need to update the code in multiple places. On top of that, the code is very self-explanatory, it's not obvious what it is intended to do" you tell yourself. The hour is still far from over, enough time to tidy up:
+You stare at the solution and realize it makes you uncomfortable. "If they increase that range, I need to update the code in multiple places. On top of that, the code is nor very self-explanatory, it's not obvious what it is intended to do" you tell yourself. The hour is still far from over, enough time to tidy up:
 
 ```js
 for(var number = 1; number < 6; number++){
@@ -89,7 +89,7 @@ When you write any text (even non-fiction) a great start is to "just write freel
 
 Some writers fix all grammar and spelling mistakes and wrap it up there. Others will go through an iterative process of refinement. One way to go about it, is by asking yourself "What do I want to say?", then read your text once again and ask "Have I said what I wanted to say?" or "Does what I said make sense?" and then you go about rephrasing the text. On each iteration you might realize something new again, make more observations or have more AHA moments. Do you spot the similarities with writing code?
 
-Writing code is writing a solution to [a problem that needs fixing](https://xkcd.com/1739/), only, you write the solution in a different language, a programming language. Programming languages are a human creation, so they often have strong similarities to our [way of thinking and writing](https://esolangs.org/wiki/Brainfuck). As in writing, there are different writing styles that can be applied in each programming language, some enforce a certain writing style. You might adopt a very imperative style or a more self-explanatory style, some languages don't give that flexibility. One might wonder how writing styles relate to [programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm), I'll leave that one for you. So, why do we seem to share a similar process between writing and coding?
+Writing code is writing a solution to [a problem that needs fixing](https://xkcd.com/1739/), only, you write the solution in a different language, a programming language. Programming languages are a human creation, so they often have strong similarities to our [way of thinking and writing](https://esolangs.org/wiki/Brainfuck). As in writing, there are different writing styles that can be applied in each programming language, some enforce a certain writing style. You might adopt a very imperative style or a more self-explanatory style, some languages don't give that flexibility. One might wonder how writing styles relate to [programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm), I'll leave that one for you to ponder about. So, why do we seem to share a similar process between writing and coding?
 
 The human brain stores information in a tree-like structure, if you think about work, you have a whole bucket of information about your work. Within that work related bucket, you have a smaller bucket with information about coworkers. Again, that coworker bucket has a bucket about Bob and so on. When you recall Bob's annoying behavior, you are reminded of your aunt Elize who makes the same dreadful jokes. Wait, doesn't Elize fit in the "family" bucket? Yes, the human brain also keeps references across the tree-like structure. Your brain is a multi-dimensional storage unit for your memories. When writing, you are converting this multi-dimensional information into a one-dimensional string of words. That is quite the achievement if you can do that properly on the first attempt!
 
@@ -136,7 +136,7 @@ Don't be tempted nor intimidated by others with their pompous or snobbish writin
 ### Iterate
 
 * Iteration is king. This is the key differentiator from those who write once and don't look back.
-* When you do Test Driven Development, you do the bare minimum to make the test pass. Then, you iterate on the implementation.
+* When you do Test-Driven-Development, you do the bare minimum to make the test pass. Then, you iterate on the implementation.
 * When doing agile software engineering, you start with a base and iteratively build your solution.
 
 Reading Tip: [The Writing Process](https://www.lynchburg.edu/academics/writing-center/wilmer-writing-center-online-writing-lab/the-writing-process/) but be wary of the paper/academic specific tips.
