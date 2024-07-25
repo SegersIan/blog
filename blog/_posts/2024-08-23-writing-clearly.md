@@ -1,6 +1,6 @@
 ---
 title: From Code to Clarity - How Writing Can Transform Your Coding Skills
-summary: This article delves into the thought process behind code refactoring and how it parallels with writing to achieve clarity. We explore the iterative nature of coding and its impact on clear thinking. Discover practical tips for writing more clearly, the benefits of clarity in software engineering, and how mastering these skills can unlock your full potential, one iteration at a time.
+summary: This article delves into the thought process behind code refactoring and how it parallels with writing to achieve clarity. We'll explore the iterative nature of coding and its impact on clear thinking. Discover practical tips for writing more clearly, the benefits of clarity in software engineering, and how mastering these skills can unlock your full potential, one iteration at a time.
 date: 2024-08-23
 tags:
   - Programming
@@ -11,7 +11,7 @@ How often do you find yourself tweaking or refactoring your code? Have you ever 
 
 # The Refactoring Process
 
-Your client wants to teach kids to count, their problem is, they need help to show how counting goes. You need to create a solution that prints all numbers from 1 to 5. You start of with a Test-Driven-Development (TDD) mindset and implement the solution in the most straightforward way:
+Your client wants to teach kids to count, their problem is, they need help to show how counting goes. You need to create a solution that prints all numbers from 1 to 5. You start off with a Test-Driven-Development (TDD) mindset and implement the solution in the most straightforward way:
 ```js
 console.log(1);
 console.log(2);
@@ -38,7 +38,7 @@ for(var number = 1; number < 6; number++){
 }
 ```
 
-You stare at the solution and realize it makes you uncomfortable. "If they increase that range, I need to update the code in multiple places. On top of that, the code is very self explanatory, it's not obvious what it is intended to do" you tell yourself. The hour is still far from over, enough time to tidy up:
+You stare at the solution and realize it makes you uncomfortable. "If they increase that range, I need to update the code in multiple places. On top of that, the code is very self-explanatory, it's not obvious what it is intended to do" you tell yourself. The hour is still far from over, enough time to tidy up:
 
 ```js
 for(var number = 1; number < 6; number++){
@@ -52,7 +52,7 @@ function isOdd(number){
 }
 ```
 
-Now the code starts to become a bit more self explanatory and it's easy to change the range (cause you think you know how the client will change their mind). You realize you still have 30 minutes left. After reading your code, you think it's still too imperative. One last shot to make it easier to understand:
+Now the code starts to become a bit more self-explanatory and it's easy to change the range (cause you think you know how the client will change their mind). You realize you still have 30 minutes left. After reading your code, you think it's still too imperative. One last shot to make it easier to understand:
 
 ```js
 var numbers = createListOfSequentialNumber(1, 5);
@@ -87,15 +87,15 @@ Notice, you went through a process of reading, understanding, reflecting, reason
 
 When you write any text (even non-fiction) a great start is to "just write freely" (aka outlining), let your thoughts flow, unfiltered, no resistance. You are basically brain dumping your thoughts in a text format. As you write code, a solution to a problem, you often will write the first version like this. Along the way you might realize something, make observations or have an AHA moment. As you read this first version (out loud) you'll notice some spelling and grammar mistakes, maybe a lack of structure. It is in need of refinement.
 
-Some writers fix all grammar and spelling mistakes and wrap it up there. Others will go through an iterative process of refinement. One way to go about it, is by asking yourself "What do I want to say?", then read your text once again and ask "Have I said what I wanted to say?" or "Does it make sense what I said?" and then you go about rephrasing the text. On each iteration you might realize something new again, make more observations or have more AHA moments. Do you spot the similarities with writing code?
+Some writers fix all grammar and spelling mistakes and wrap it up there. Others will go through an iterative process of refinement. One way to go about it, is by asking yourself "What do I want to say?", then read your text once again and ask "Have I said what I wanted to say?" or "Does what I said make sense?" and then you go about rephrasing the text. On each iteration you might realize something new again, make more observations or have more AHA moments. Do you spot the similarities with writing code?
 
-Writing code is writing a solution to [a problem that needs fixing](https://xkcd.com/1739/), only, you write the solution in a different language, a programming language. Programming languages are a human creation, so they often have strong similarities to our [way of thinking and writing](https://esolangs.org/wiki/Brainfuck). As in writing, there are different writing styles that can be applied in each programming language, some enforce a certain writing style. You might adopt a very imperative style or a more self explanatory style, some languages don't give that flexibility. One might wonder how writing styles relate to [programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm), I'll leave that one for you. So, why do we seem to share a similar process between writing and coding?
+Writing code is writing a solution to [a problem that needs fixing](https://xkcd.com/1739/), only, you write the solution in a different language, a programming language. Programming languages are a human creation, so they often have strong similarities to our [way of thinking and writing](https://esolangs.org/wiki/Brainfuck). As in writing, there are different writing styles that can be applied in each programming language, some enforce a certain writing style. You might adopt a very imperative style or a more self-explanatory style, some languages don't give that flexibility. One might wonder how writing styles relate to [programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm), I'll leave that one for you. So, why do we seem to share a similar process between writing and coding?
 
-The human brain stores information in a tree-like structure, if you think about work, you have a whole bucket of information about your work. Within that work related bucket, you have a smaller bucket with information about coworkers. Again, that coworker bucket has a bucket about Bob and so on. When you recall Bob's annoying behavior, you are reminded of your aunt Elize who makes the same dreadful jokes. Wait, doesn't Elize fit in the "family" bucket? Yes, the human brain also keeps references across the tree-like structure. Your brain is a multi-dimensional storage unit for your memories. When writing, you are converting this multidimensional information into a one dimensional string of words. That is quite the achievement if you can do that properly on the first attempt!
+The human brain stores information in a tree-like structure, if you think about work, you have a whole bucket of information about your work. Within that work related bucket, you have a smaller bucket with information about coworkers. Again, that coworker bucket has a bucket about Bob and so on. When you recall Bob's annoying behavior, you are reminded of your aunt Elize who makes the same dreadful jokes. Wait, doesn't Elize fit in the "family" bucket? Yes, the human brain also keeps references across the tree-like structure. Your brain is a multi-dimensional storage unit for your memories. When writing, you are converting this multi-dimensional information into a one-dimensional string of words. That is quite the achievement if you can do that properly on the first attempt!
 
-It's only natural that you have to go back, re-read that text and make sure it  came out properly. The same happens when talking, sometimes you realize what you just said was incoherent, nonsense or incomplete. It is normal that you need to revise, edit and correct the end result of your attempt to express larger ideas and thoughts in text. But that's not all that's happening.
+It's only natural that you have to go back, re-read that text and make sure it  came out properly. The same happens when talking, sometimes you realize what you just said was incoherent, nonsensical, or incomplete. It is normal that you need to revise, edit and correct the end result of your attempt to express larger ideas and thoughts in text. But that's not all that's happening.
 
-Remember the last time you tried to explain a complex problem you struggle with to a coworker, did you ever had the answer come to you, as you were trying to [articulate the problem](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to your coworker? There is a feedback loop here. As you go through this process, you are further improving the structure of your thoughts, you might even learn new things and make new neural connections along the way, resulting in greater understanding and clarity. That's the reason why writing a summary about anything you lust learned can be so effective or why asking "What have you learned from this?" can be so powerful. This back and forth process happens also while coding and refactoring.
+Remember the last time you tried to explain a complex problem you struggle with to a coworker, did you ever have the answer come to you, as you were trying to [articulate the problem](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to your coworker? There is a feedback loop here. As you go through this process, you are further improving the structure of your thoughts, you might even learn new things and make new neural connections along the way, resulting in greater understanding and clarity. That's the reason why writing a summary about anything you just learned can be so effective or why asking "What have you learned from this?" can be so powerful. This back and forth process happens also while coding and refactoring.
 
 This process is not limited to writing. An artist uses audio, they have an idea, they express, they reflect, they revise, they create. Visualizations, a whiteboard is an excellent equivalent where you can express your ideas and thoughts on a blank canvas, analyze it, reflect, reason and modify it to achieve more clarity of your thoughts.
 
@@ -103,12 +103,12 @@ There it is, *clarity of thought*, giving you the ability to communicate clearly
 
 # Writing More Clearly
 
-Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well, learning useful new insights along the way. If you are a software engineer, you probably often write more text than code on any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so close to natural languages, in that case, you could consider writing  the pseudocode first. My advice is a non-exhaustive and informal list, pick what works for you.
+Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well learning useful new insights along the way. If you are a software engineer, you probably often write more text than code on any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so close to natural languages, in that case, you could consider writing  the pseudocode first. My advice is a non-exhaustive and informal list, pick what works for you.
 
 Improving your writing will directly improve your ability to write better code and vice-versa.
 
 ## The Reader
-Some of the best and clearly written articles are jargon articles that were even accessible to people from outside that given jargon. Many TED talks discuss scientific topics, made accessible by the speaker. Within the field of software engineering it is hard to agree on what constitutes a minimum general knowledge within the field. There are countless technologies, libraries, experience levels, tools, languages and frameworks, making it impossible to all know the same things. In addition, the majority of software engineers must communicate with non or semi technical stakeholders to get things done. There is no point fighting this. Mind the reader or target audience.
+Some of the best and clearly written articles are jargon articles that are even accessible to people from outside that given jargon. Many TED talks discuss scientific topics, made accessible by the speaker. Within the field of software engineering it is hard to agree on what constitutes a minimum general knowledge within the field. There are countless technologies, libraries, experience levels, tools, languages and frameworks, making it impossible to all know the same things. In addition, the majority of software engineers must communicate with non or semi technical stakeholders to get things done. There is no point to fight this. Mind the reader or target audience.
 
 Reading Tip: [Rhetorical Situations](https://wac.colostate.edu/repository/teaching/intro/rhetoric/)
 
@@ -125,9 +125,9 @@ Reading Tip: [Rhetorical Situations](https://wac.colostate.edu/repository/teachi
 * "Is there any ambiguity for the reader?"
 
 ### Simplify
-Did you know TED talks have a hard stop at 18 minutes so that speakers would be forced to keep it them for inflating the content? It doesn't allow for unclarity if you want to introduce a new idea in a short time frame.
+Did you know TED talks have a hard stop at 18 minutes to force speakers to avoid inflating the content? It doesn't allow for unclarity if you want to introduce a new idea in a short time frame.
 
-Prune words and sentences that repeat or don't add value, be ruthless, if it does not help the reader, it's just taking space. Great writing is all about the power of the deleted word (Richard Bach). Rewrite if it doesn't work, don't be attached to everything you write. Choose short words over lengthy ones.
+Prune words and sentences that repeat or don't add value. Be ruthless, if it does not help the reader, it's just taking space. Great writing is all about the power of the deleted word (Richard Bach). Rewrite if it doesn't work, don't be attached to everything you write. Choose short words over lengthy ones.
 
 Consider using GenAI to improve how you formulate your ideas, take this with caution though, ChatGPT loves by default a lengthy and cluttered writing style. Make sure to prompt for "simplified", "concise", or "clear" language. However, it can be a great sparring partner.
 
