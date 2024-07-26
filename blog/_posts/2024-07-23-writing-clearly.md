@@ -154,7 +154,7 @@ As you iterate, do keep these tips in mind to remain productive:
 
 ### Blog, Teach, Talk, Explain
 
-"To teach is to learn twice" (Joseph Joubert), this quote exemplifies how teaching deepens one's own understanding of a subject. One of the most effective ways to deepen your understanding and learn to clearly formulate is by teaching, explaining or public speaking. I personally experienced this as I was coaching students on [FreeCodeCamp](https://www.freecodecamp.org/) meetups and doing tech talks. That's why *effective* public speakers, bloggers and content creators know their subject so well, through the process of preparing their content, they learn and improve. It's a natural self-reinforcing loop. The more content they create, the better they become.
+"To teach is to learn twice" (Joseph Joubert), this quote exemplifies how teaching deepens one's own understanding of a subject. One of the most effective ways to deepen your understanding and learn to clearly formulate is by teaching, explaining or public speaking. I personally experienced this as I was coaching students on [FreeCodeCamp](https://www.freecodecamp.org/) meetups and doing tech talks. That's why *good* public speakers, bloggers and content creators know their subject so well, through the process of preparing their content, they learn and improve. It's a natural self-reinforcing loop. The more content they create, the better they become.
 
 # Final Thoughts
 
