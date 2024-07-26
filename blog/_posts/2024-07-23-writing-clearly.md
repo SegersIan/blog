@@ -124,7 +124,7 @@ Reading Tip: [Rhetorical Situations](https://wac.colostate.edu/repository/teachi
 * "What do I need to say next? Will it lead logically out of what I’ve just written?"
 * "Is there any ambiguity for the reader?"
 * "Am I sticking to what I want to say and the subject?"
-  * Try to avoid scope creep and make sure you remain focussed, you might get to eager to share things that are not within the actual scope.
+  * Try to avoid scope creep and make sure you remain focussed, you might get too eager to share things that are not within the actual scope.
 
 ### Simplify
 Did you know TED talks have a hard stop at 18 minutes to force speakers to avoid inflating the content? It doesn't allow for unclarity if you want to introduce a new idea in a short time frame.
