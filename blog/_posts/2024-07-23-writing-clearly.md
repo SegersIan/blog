@@ -105,7 +105,7 @@ There it is, *clarity of thought*, giving you the ability to communicate clearly
 
 Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well learning useful new insights along the way. If you are a software engineer, you probably often write more text than code on any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so close to natural languages, in that case, you could consider writing  the pseudocode first. My advice is a non-exhaustive and informal list, pick what works for you.
 
-Improving your writing will directly improve your ability to write better code and vice-versa.
+Althought writing is most commonly thought of as a way of expressing thoughts that we have already formed, it is also an excellent tool for discovering and clarifying thoughts. Improving your writing will directly improve your ability to write better code and vice-versa.
 
 ## The Reader
 Some of the best and clearly written articles are jargon articles that are even accessible to people from outside that given jargon. Many TED talks discuss scientific topics, made accessible by the speaker. Within the field of software engineering it is hard to agree on what constitutes a minimum general knowledge within the field. There are countless technologies, libraries, experience levels, tools, languages and frameworks, making it impossible to all know the same things. In addition, the majority of software engineers must communicate with non or semi technical stakeholders to get things done. There is no point to fight this. Mind the reader or target audience.
@@ -135,11 +135,23 @@ Don't be tempted nor intimidated by others with their pompous or snobbish writin
 
 ### Iterate
 
-* Iteration is king. This is the key differentiator from those who write once and don't look back.
-* When you do Test-Driven-Development, you do the bare minimum to make the test pass. Then, you iterate on the implementation.
-* When doing agile software engineering, you start with a base and iteratively build your solution.
+The cognitive benefits of iteration are profound.
 
-Reading Tip: [The Writing Process (MIT)](https://writingprocess.mit.edu/)
+For software engineers, the concept of iteration probably isn't new.
+Iteration is at the foundation of agile, lean, DevOps, TDD and many other movements and methodologies because iteration establishes an important feedback loop for improvement.
+It's almost industry-wide knowledge that the first solution is rarely the best solution, same for expressing complex ideas some language:
+
+* Iteration deepens your understanding on a subject because it forces you to re-examine and re-think aspects of that subject.
+* Iteration enhances creativity as you continiously try to seek better ways to expressing ideas or finding solutions.
+* Writing (code) is a process, not a product.
+
+As you iterate, do keep these tips in mind to remain productive:
+
+* Break down the problem or the tasks allowing for lightweight iterations, allowing for smaller, managable incremental improvements.
+* Don't overdo it, perfection is not the goal, make sure that each iterations still adds sizeable value.
+* Take a mental breaks between iterations of minutes, hours, days based on the scope, deadline and importance.
+* Iterate on the overall scope (e.g. overall structure) as well as on local parts (wording, sentence structure, ...).
+
 
 ### Blog, Teach, Talk, Explain
 
@@ -163,6 +175,7 @@ By mastering the art of clear thinking and concise writing, you'll not only tran
 
 ---
 
+# TODO
 
-Althought writing is most commonly thought of as a way of expressong thoughts that we have already formed, it is also an excellent tool for dfiscovering and clarifying thoughts.
-Most people die vauge about life and death … We imagine other people know definitly their own minds about things important to them and around them. but it is not so, we live in perpertual vaguengess …
+* More about iteration
+* At least a bit of tip/guide about more languages and to describe the world.
