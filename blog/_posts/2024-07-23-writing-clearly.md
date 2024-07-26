@@ -1,7 +1,7 @@
 ---
 title: From Code to Clarity - How Writing Can Transform Your Coding Skills
 summary: This article delves into the thought process behind code refactoring and how it parallels with writing to achieve clarity. We'll explore the iterative nature of coding and its impact on clear thinking. Discover practical tips for writing more clearly, the benefits of clarity in software engineering, and how mastering these skills can unlock your full potential, one iteration at a time.
-date: 2024-08-23
+date: 2024-07-23
 tags:
   - Programming
   - Clear Thinking
@@ -153,9 +153,16 @@ By mastering the art of clear thinking and concise writing, you'll not only tran
 
 # Resources
 
+* [Art Of Thinking](https://www.amazon.com/Art-Thinking-critical-Creative-Thought/dp/0321953312) by Vincent Ruggiero.
 * [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by William Zinsser.
 * [Ted Talks: The Official TED Guide to Public Speaking](https://www.goodreads.com/book/show/41044212-ted-talks?) by Chris J. Anderson.
 * [WAC: Writing Across The Curriculum](https://wac.colostate.edu/repository/teaching/intro/)
 * [WAC: Writing To Engage](https://wac.colostate.edu/repository/teaching/intro/wte/)
 * [Writing To Learn](https://www.goodreads.com/book/show/53343.On_Writing_Well) by Willian Zinsser.
 * [Writing Process (MIT)](https://writingprocess.mit.edu/)
+
+---
+
+
+Althought writing is most commonly thought of as a way of expressong thoughts that we have already formed, it is also an excellent tool for dfiscovering and clarifying thoughts.
+Most people die vauge about life and death … We imagine other people know definitly their own minds about things important to them and around them. but it is not so, we live in perpertual vaguengess …
