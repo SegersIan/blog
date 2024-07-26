@@ -139,7 +139,7 @@ Don't be tempted nor intimidated by others with their pompous or snobbish writin
 * When you do Test-Driven-Development, you do the bare minimum to make the test pass. Then, you iterate on the implementation.
 * When doing agile software engineering, you start with a base and iteratively build your solution.
 
-Reading Tip: [The Writing Process](https://www.lynchburg.edu/academics/writing-center/wilmer-writing-center-online-writing-lab/the-writing-process/) but be wary of the paper/academic specific tips.
+Reading Tip: [The Writing Process (MIT)](https://writingprocess.mit.edu/)
 
 ### Blog, Teach, Talk, Explain
 
@@ -153,8 +153,9 @@ By mastering the art of clear thinking and concise writing, you'll not only tran
 
 # Resources
 
+* [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by William Zinsser.
+* [Ted Talks: The Official TED Guide to Public Speaking](https://www.goodreads.com/book/show/41044212-ted-talks?) by Chris J. Anderson.
 * [WAC: Writing Across The Curriculum](https://wac.colostate.edu/repository/teaching/intro/)
 * [WAC: Writing To Engage](https://wac.colostate.edu/repository/teaching/intro/wte/)
 * [Writing To Learn](https://www.goodreads.com/book/show/53343.On_Writing_Well) by Willian Zinsser.
-* [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by William Zinsser.
-* [Ted Talks: The Official TED Guide to Public Speaking](https://www.goodreads.com/book/show/41044212-ted-talks?) by Chris J. Anderson.
+* [Writing Process (MIT)](https://writingprocess.mit.edu/)
