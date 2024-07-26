@@ -97,15 +97,15 @@ It's only natural that you have to go back, re-read that text and make sure it  
 
 Remember the last time you tried to explain a complex problem you struggle with to a coworker, did you ever have the answer come to you, as you were trying to [articulate the problem](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to your coworker? There is a feedback loop here. As you go through this process, you are further improving the structure of your thoughts, you might even learn new things and make new neural connections along the way, resulting in greater understanding and clarity. That's the reason why writing a summary about anything you just learned can be so effective or why asking "What have you learned from this?" can be so powerful. This back and forth process happens also while coding and refactoring.
 
-This process is not limited to writing. An artist uses audio, they have an idea, they express, they reflect, they revise, they create. Visualizations, a whiteboard is an excellent equivalent where you can express your ideas and thoughts on a blank canvas, analyze it, reflect, reason and modify it to achieve more clarity of your thoughts.
+This process is not limited to writing or natural languages. A mathematician used math to express and think, a musician uses notes and their hearing to create and improve, anyone might use a whiteboard to express and visualize their thoughts and put them up for scrutiny, an architect draws blueprints on paper to share his plans and an artist uses a blank canvas to paint and express abstract concepts. All these channels, languages, annotations allow for expressing, reflection and play with the abstract. Along the way making for more clarity of your thought and useful learnings *(An exploration of this multi-modal concept is for another article)*.
 
 There it is, *clarity of thought*, giving you the ability to communicate clearly, to express your thoughts clearly, to reason more clearly, write code more clearly and more importantly, to learn. Clarity of thought gives you a major advantage in any work you do as a software engineer: improved critical thinking, write cleaner code, write effective emails, do impactful code reviews, express new ideas, write a design document that makes sense to others and properly express your arguments. Very few are born with a talent for this, you can learn and develop this skill.
 
 # Writing More Clearly
 
-Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well learning useful new insights along the way. If you are a software engineer, you probably often write more text than code on any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so close to natural languages, in that case, you could consider writing  the pseudocode first. My advice is a non-exhaustive and informal list, pick what works for you.
+Pushing yourself to write your thoughts in a clear manner will give you a clearer understanding of the subject, as well as learning useful new insights along the way. If you are a software engineer, you probably often write more text than code on any given day, writing advice works well for your daily work as for writing code (aka writing a solution). Some programming languages are not so close to natural languages, in that case, you could consider writing  the pseudocode first. My advice is a non-exhaustive and informal list, pick what works for you.
 
-Althought writing is most commonly thought of as a way of expressing thoughts that we have already formed, it is also an excellent tool for discovering and clarifying thoughts. Improving your writing will directly improve your ability to write better code and vice-versa.
+Although writing is most commonly thought of as a way of expressing thoughts that we have already formed, it is also an excellent tool for discovering and clarifying thoughts. Improving your writing will directly improve your ability to write better code and vice-versa.
 
 ## The Reader
 Some of the best and clearly written articles are jargon articles that are even accessible to people from outside that given jargon. Many TED talks discuss scientific topics, made accessible by the speaker. Within the field of software engineering it is hard to agree on what constitutes a minimum general knowledge within the field. There are countless technologies, libraries, experience levels, tools, languages and frameworks, making it impossible to all know the same things. In addition, the majority of software engineers must communicate with non or semi technical stakeholders to get things done. There is no point to fight this. Mind the reader or target audience.
@@ -142,16 +142,15 @@ Iteration is at the foundation of agile, lean, DevOps, TDD and many other moveme
 It's almost industry-wide knowledge that the first solution is rarely the best solution, same for expressing complex ideas some language:
 
 * Iteration deepens your understanding on a subject because it forces you to re-examine and re-think aspects of that subject.
-* Iteration enhances creativity as you continiously try to seek better ways to expressing ideas or finding solutions.
+* Iteration enhances creativity as you continuously try to seek better ways to express ideas or find solutions.
 * Writing (code) is a process, not a product.
 
 As you iterate, do keep these tips in mind to remain productive:
 
-* Break down the problem or the tasks allowing for lightweight iterations, allowing for smaller, managable incremental improvements.
-* Don't overdo it, perfection is not the goal, make sure that each iterations still adds sizeable value.
-* Take a mental breaks between iterations of minutes, hours, days based on the scope, deadline and importance.
+* Break down the problem or the tasks allowing for lightweight iterations, allowing for smaller, manageable incremental improvements.
+* Don't overdo it, perfection is not the goal, make sure that each iteration still adds sizable value.
+* Take a mental break between iterations of minutes, hours, days based on the scope, deadline and importance.
 * Iterate on the overall scope (e.g. overall structure) as well as on local parts (wording, sentence structure, ...).
-
 
 ### Blog, Teach, Talk, Explain
 
@@ -172,10 +171,3 @@ By mastering the art of clear thinking and concise writing, you'll not only tran
 * [WAC: Writing To Engage](https://wac.colostate.edu/repository/teaching/intro/wte/)
 * [Writing To Learn](https://www.goodreads.com/book/show/53343.On_Writing_Well) by Willian Zinsser.
 * [Writing Process (MIT)](https://writingprocess.mit.edu/)
-
----
-
-# TODO
-
-* More about iteration
-* At least a bit of tip/guide about more languages and to describe the world.
