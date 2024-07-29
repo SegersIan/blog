@@ -87,7 +87,7 @@ Notice, you went through a process of reading, understanding, reflecting, reason
 
 When you write any text (even non-fiction) a great start is to "just write freely" (aka outlining), let your thoughts flow, unfiltered, no resistance. You are basically brain dumping your thoughts in a text format. As you write code, a solution to a problem, you often will write the first version like this. Along the way you might realize something, make observations or have an AHA moment. As you read this first version (out loud) you'll notice some spelling and grammar mistakes, maybe a lack of structure. It is in need of refinement.
 
-Some writers fix all grammar and spelling mistakes and wrap it up there. Others will go through an iterative process of refinement. One way to go about it, is by asking yourself "What do I want to say?", then read your text once again and ask "Have I said what I wanted to say?" or "Does what I said make sense?" and then you go about rephrasing the text. On each iteration you might realize something new again, make more observations or have more AHA moments. Do you spot the similarities with writing code?
+Some writers fix all grammar and spelling mistakes and wrap it up there. Others will go through an iterative process of refinement. One way to go about it, is by asking yourself "What do I want to say?", then read your text once again and ask "Have I said what I wanted to say?" or "Does what I said make sense?" and then you go about rephrasing that text. On each iteration you might realize something new again, make more observations or have more AHA moments. Do you spot the similarities with writing code?
 
 Writing code is writing a solution to [a problem that needs fixing](https://xkcd.com/1739/), only, you write the solution in a different language, a programming language. Programming languages are a human creation, so they often have strong similarities to our [way of thinking and writing](https://esolangs.org/wiki/Brainfuck). As in writing, there are different writing styles that can be applied in each programming language, some enforce a certain style. You might adopt a very imperative style or a more self-explanatory style, some languages don't give that flexibility. One might wonder how writing styles relate to [programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm), I'll leave that one for you to ponder about. So, why do we seem to share a similar process between writing and coding?
 
@@ -123,12 +123,13 @@ Reading Tip: [Rhetorical Situations](https://wac.colostate.edu/repository/teachi
 * "Does it make sense what I just said?".
 * "Is this sentence/paragraph/text clear to someone who knows nothing about the subject?"
 * "What do I need to say next? Will it lead logically out of what I’ve just written?"
+  * A linear built up of your text is key to increase understanding by the reader, one step at a time. You wouldn't start teaching someone to program if they never have worked with a computer.
 * "Is there any ambiguity for the reader?"
 * "Am I sticking to what I want to say and the subject?"
-  * Try to avoid scope creep and make sure you remain focused, you might get too eager to share things that are not within the actual scope.
+  * Avoid scope creep and make sure you remain focused, you might get too eager to share things that are not within the actual scope or that relevant to the topics at hand.
 
 ### Simplify
-Did you know TED talks have a hard stop at 18 minutes to force speakers to avoid inflating the content? It doesn't allow for unclarity if you want to introduce a new idea in a short time frame.
+Did you know TED talks have a hard stop at 18 minutes to force speakers to avoid inflating its content? It doesn't allow for unclarity if you want to introduce a new idea in a short time frame.
 
 Prune words and sentences that repeat or don't add value. Be ruthless, if it does not help the reader, it's just taking space. Great writing is all about the power of the deleted word (Richard Bach). Rewrite if it doesn't work, don't be attached to everything you write. Choose short words over lengthy ones.
 
@@ -141,8 +142,8 @@ Don't be tempted nor intimidated by others with their pompous or snobbish writin
 The cognitive benefits of iteration are profound.
 
 For software engineers, the concept of iteration probably isn't new.
-Iteration is at the foundation of agile, lean, DevOps, TDD and many other movements and methodologies because iteration establishes an important feedback loop for improvement.
-It's almost industry-wide knowledge that the first solution is rarely the best solution, same for expressing complex ideas some language:
+Iteration is at the foundation of agile, lean, DevOps, TDD and many other movements and methodologies because iteration establishes an important feedback loop for improvement and learning.
+It's almost industry-wide knowledge that the first solution is rarely the best solution, same for expressing complex ideas in some language:
 
 * Iteration deepens your understanding on a subject because it forces you to re-examine and re-think aspects of that subject.
 * Iteration enhances creativity as you continuously try to seek better ways to express ideas or find solutions.
@@ -157,7 +158,7 @@ As you iterate, do keep these tips in mind to remain productive:
 
 ### Blog, Teach, Talk, Explain
 
-"To teach is to learn twice" (Joseph Joubert), this quote exemplifies how teaching deepens one's own understanding of a subject. One of the most effective ways to deepen your understanding and learn to clearly formulate is by teaching, explaining or public speaking. That's why *good* public speakers, bloggers and content creators know their subject so well, through the process of preparing their content, they learn and improve. It's a natural self-reinforcing loop. The more content they create, the better they become. I personally experienced this as I was coaching students on [FreeCodeCamp](https://www.freecodecamp.org/) meetups and doing tech talks.
+"To teach is to learn twice" (Joseph Joubert), this exemplifies how teaching deepens one's own understanding of a subject. One of the most effective ways to deepen your understanding and learn to clearly formulate is by teaching, explaining or public speaking. That's why *good* public speakers, bloggers and content creators know their subject so well, through the process of preparing their content, they learn and improve. It's a natural self-reinforcing loop. The more content they create, the better they become. I personally experienced this as I was coaching students on [FreeCodeCamp](https://www.freecodecamp.org/) meetups, blogging and doing tech talks.
 
 # Final Thoughts
 
