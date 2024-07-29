@@ -52,7 +52,7 @@ function isOdd(number){
 }
 ```
 
-Now the code starts to become a bit more self-explanatory and it's easy to change the range (cause you think you know how the client will change their mind). You realize you still have 30 minutes left. After reading your code, you think it's still too imperative. One last shot to make it easier to understand:
+Now the code starts to become a bit more self-explanatory and it's easy to change the range (cause [you think you know how the client will change their mind](https://www.xkcd.com/974/)). You realize you still have 30 minutes left. After reading your code, you think it's still too imperative. One last shot to make it easier to understand:
 
 ```js
 var numbers = createListOfSequentialNumber(1, 5);
