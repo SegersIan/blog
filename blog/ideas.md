@@ -14,3 +14,5 @@
 * More emphasis on the operational part ?
 * Does this multi modal connect to LLM ? Can They learn from this?.
 * Conclusion can be that, that's how generalists or by learning different tools/disciplines you learn methods/language/notations/ to reframe any problem, breading more creativy in finding a solution or understanding.
+
+* About lazyness, not starting, overthinking, not moving, don’t do at work. Work is a balancing act between “just start” and “plan accordingly”, sometimes needing to switch to the extreme opposites. With kids it feels that you just know you don't know the whole road, and you (or I) overplan less.
