@@ -60,6 +60,7 @@ module.exports = {
 
   plugins: [
     ["@vuepress/plugin-google-analytics", { ga: "UA-76745643-3" }],
+    ['plausible', { domain: 'segersian.com' }],
     ["@vuepress/medium-zoom"],
     [
       "@vuepress/blog",

@@ -13,5 +13,8 @@
   "scripts": {
     "docs:dev": "vuepress dev blog",
     "docs:build": "vuepress build blog"
+  },
+  "dependencies": {
+    "vuepress-plugin-plausible": "^0.0.4"
   }
 }
