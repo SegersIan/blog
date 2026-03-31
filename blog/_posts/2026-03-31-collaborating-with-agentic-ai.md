@@ -92,7 +92,15 @@ Your test agent use case to build is to buy a house, cause it requires human int
 
 
 
-# Accountability according to claude
+# Accountability 
+
+## According to dictionary
+- the fact of being responsible for what you do and able to give a satisfactory reason for it, or the degree to which this happens:
+- a situation in which someone is responsible for things that happen and can give a satisfactory reason for them:
+- 
+
+
+## according to claude
 
 Accountability is the obligation to answer for your actions, decisions, and their outcomes — to yourself, to others, or to a system. It means you can be asked "why did you do that?" and you're expected to have a defensible answer.
 
